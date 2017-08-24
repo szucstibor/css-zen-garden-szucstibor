@@ -3,7 +3,7 @@ body
     background-color: #b3f0ff;
     font-family: arial, helvetica, serif;
     margin: 30pt;
-    
+    height: auto;
 }
 
 p
@@ -28,8 +28,8 @@ p
 
 #zen-intro p
 {
-    font-size: 20px
-    
+    top: 30px;
+    font-size: 20px    
 }
 
 #zen-preamble
@@ -40,6 +40,7 @@ p
 
 #zen-preamble p
 {
+    top: 30px;    
     font-size: 14px;
 }
 h3
@@ -52,6 +53,7 @@ h3
 
 #zen-supporting p
 {
+    left: 60px;
     text-align: left;
     text-indent: 20pt;
 }

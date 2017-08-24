@@ -1,0 +1,80 @@
+body
+{
+    background-color: #b3f0ff;
+    font-family: arial, helvetica, serif;
+    margin: 30pt;
+    
+}
+
+p
+{
+    font-size: 14px;
+    position: static;
+}
+
+#zen-intro
+{
+    text-align: center;
+    font-size: 40px;
+    text-indent: 30pt;
+    color: #ff5500;
+}
+
+#zen-intro h1, h2
+{
+    display: inline;
+    font-size: 50px;
+}
+
+#zen-intro p
+{
+    font-size: 20px
+    
+}
+
+#zen-preamble
+{
+    text-align: left;
+    color: black;
+}
+
+#zen-preamble p
+{
+    font-size: 14px;
+}
+h3
+{
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    padding-bottom: 12pt;
+}
+
+#zen-supporting p
+{
+    text-align: left;
+    text-indent: 20pt;
+}
+
+footer
+{
+    color: #b3f0ff;
+    text-decoration: overline;
+    font-size: 30px;
+}
+
+#design-selection h3
+{
+    text-align: left;
+    font-size: 20pt;
+}
+
+.design-archives h3
+{
+    text-align: left;
+}
+
+.zen-resources h3
+{
+    text-align: left;
+}
